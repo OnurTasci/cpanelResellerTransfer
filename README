@@ -1,0 +1,6 @@
+INSTALLATION:
+
+Download the resellertransfer_install.pl script to /root and run it (as root).
+Once completed, you should have an resellertransfer plugin under WHM => Plugins.
+
+
